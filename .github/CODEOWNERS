@@ -7,8 +7,8 @@
 #       [x] Require approvals (minimaal 1)
 #       [x] Require review from Code Owners
 #   [x] Require status checks to pass before merging → "lint-and-verify"
-*                    @student-1 @student-2 @student-3
+*                    @NicolasSzczepanek103440 @Musab13159 @phantomghost910 @Sem-GLR
 
 # Specifieke hoedersrollen (iedereen blijft over de hele repo meebouwen en reviewen):
-/database/           @student-backend @student-1
-/public/assets/css/  @student-ux @student-2
+# /           @backend @NicolasSzczepanek103440 @Musab13159
+# /           @frontend @phantomghost910 @Sem-GLR
