@@ -1,7 +1,8 @@
-# Team Charter: Team Appol
-In dit document leest u het samenwerkingsovereenkomst voor het webapplicatie gemaakt voor GLR Freaks, bestemd om de zogenaamde 'ontkoking' tussen vooral jongeren uit de generatie Z te verminderen. 
+# Team Charter: YumYum Convenience
+In dit document leest u het samenwerkingsovereenkomst voor het webapplicatie gemaakt voor het restaurant Yume Ramen, bestemd om ramen naar hen klanten te laten bezorgen via de webapplicatie.
 
- 
+Hieronder vindt u de verschillende afspraken en gedachtes die naar beide het team en project behoren als onderdeel van het samenwerkingsovereenkomst-document.
+
 ## 1. Onze Ambitie 
 Wij willen graag zo efficient, snel en kwalitief ons project maken en opleveren naar onze klant(en), waarbij wij oog hebben voor elk vraag en eis en ons zich daarin goed verdiepen.
  
@@ -65,6 +66,10 @@ Hoewel wij met elkaar goed kunnen afspreken over wie wat doet en wat het (algeme
 * **Risico 5:** Om een webapplicatie te maken is er vaak veel programmeerwerk nodig en kunnen daarbij fouten oplopen die ervoor zorgen dat (cruciale) functies niet werken, waardoor het eindproject zal falen. Om ervoor te zorgen dat alles werkt, kunnen developers na de making van een (belangrijk) element testen en ook laten testen door vrijwilligers. In beide gevallen wordt er helder gemaakt wat er goed en verkeerd gaat.
  
 ## 5. Consequenties 
-* Wat gebeurt er als iemand afspraken structureel niet nakomt? 
-  * *[Bijv: 1e keer = feedback in stand-up. 2e keer = waarschuwing. 3e
-keer = Docent inlichten.]*
+Mocht het zo mogelijk zijn dat één of meerdere personen zich niet aan de afspraken houden, dan kan dit worden opgelost in - stappen:
+
+**1.** Identificeren van het probleem
+* Om een probleem op te kunnen lossen moet er ten allereerst worden vastgesteld wat het probleem is. Dit kan bijvoorbeeld zijn dat de teamgenoot te weinig bijdraagt.
+
+**2.** Begrip en emphatie
+* Nadat het probleem geindentificeerd werd, 
